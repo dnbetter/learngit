@@ -27,6 +27,6 @@ github创建一个仓库，本地进行克隆
 Git支持多种协议，包括https，但通过ssh支持的原生git协议速度最快。
 
 	git@server-name:path/repo-name.git；//原生git协议
-	git@github.com:michaelliao/learngit.git
+	git@github.com:dnbetter/learngit.git
 	https://github.com/path/learngit.git；//https协议
 	
